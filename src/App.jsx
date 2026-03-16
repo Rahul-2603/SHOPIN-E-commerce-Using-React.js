@@ -8,13 +8,12 @@ import { useState } from "react"
 
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
-import Nav from "./components/Nav"
-import Foot from "./components/Foot"
-
+import Nav from "./components/nav"
+import Foot from "./components/foot"
 import Home from "./pages/home"
-import Product from "./pages/Product"
+import Product from "./pages/product"
 import Contact from "./pages/contact"
-import Service from "./pages/Service"
+import Service from "./pages/service"
 import Profile from "./pages/Profile"
 import Settings from "./pages/settings"
 import Cart from "./pages/Cart"
