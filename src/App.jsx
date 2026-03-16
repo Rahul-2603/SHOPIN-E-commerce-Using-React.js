@@ -17,7 +17,7 @@ import Service from "./pages/service"
 import Profile from "./pages/Profile"
 import Settings from "./pages/Settings"
 import Cart from "./pages/Cart"
-import Item from "./pages/item"
+import Item from "./pages/Item"
 
 
 
