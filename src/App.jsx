@@ -15,7 +15,7 @@ import Product from "./pages/product"
 import Contact from "./pages/contact"
 import Service from "./pages/service"
 import Profile from "./pages/Profile"
-import Settings from "./pages/Setting"
+import Settings from "./pages/Settings"
 import Cart from "./pages/Cart"
 import Item from "./pages/item"
 
